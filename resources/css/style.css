@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    text-align: centered;
+    text-align: center;
 }
 
 h1 {
@@ -8,20 +8,20 @@ h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: centered;
+    text-align: center;
 }
 
 a {
     color: aquamarine;
     font-size: 16px;
-    text-align: centered;
+    text-align: center;
 }
 
 h2 {
     font-family: Verdana;
     font-weight: 300px;
     font-size: 42px;
-    text-align: centered;
+    text-align: center;
     color: white;
 }
 
@@ -29,7 +29,7 @@ p {
     font-family: Verdana;
     font-size: 21px;
     color: gray;
-    text-align: centered;
+    text-align: center;
 }
 
 img {
