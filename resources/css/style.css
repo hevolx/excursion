@@ -7,12 +7,12 @@ h1 {
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
-    font-color: white;
+    color: white;
     text-align: centered;
 }
 
 a {
-    font-color: aquamarine;
+    color: aquamarine;
     font-size: 16px;
 }
 
@@ -25,11 +25,11 @@ h2 {
 p {
     font-family: Verdana;
     font-size: 21px;
-    font-color: gray;
+    color: gray;
 }
 
 footer {
     text-align: right;
-    font-color: gray;
+    color: gray;
 }
 
